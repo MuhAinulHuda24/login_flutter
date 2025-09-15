@@ -68,3 +68,22 @@ Map<String, Map<String, String>> userData = {
 3.  Buka terminal di direktori proyek, lalu jalankan `flutter pub get` untuk menginstal dependensi.
 4.  Jalankan aplikasi dengan `flutter run`.
 
+### HAsil Akhir
+**login :**
+<img width="329" height="694" alt="image" src="https://github.com/user-attachments/assets/68ebf4c1-c916-44bc-a3f6-a3a5a9cb1614" />
+
+**Register :**
+<img width="329" height="693" alt="image" src="https://github.com/user-attachments/assets/64fe095e-7746-41b7-bbbc-82f542f20807" />
+
+**Setelah Register :**
+<img width="323" height="689" alt="image" src="https://github.com/user-attachments/assets/8f2d4478-63f6-42ed-be68-954abd0b514a" />
+
+**Ketika Login password / email salah :**
+<img width="326" height="695" alt="image" src="https://github.com/user-attachments/assets/25c897ea-98b1-4e94-8e42-855edfa1839d" />
+
+**Berhasil Login :**
+<img width="328" height="691" alt="image" src="https://github.com/user-attachments/assets/24635342-b000-4675-9336-5c9b66512792" />
+
+
+
+
