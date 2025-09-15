@@ -63,7 +63,7 @@ Map<String, Map<String, String>> userData = {
 -   **State Management**: State dikelola secara lokal di setiap halaman yang membutuhkannya (`LoginPage` dan `RegisterPage`) menggunakan `StatefulWidget` dan `setState`.
 
 ## Cara Menjalankan Proyek
-1.  Pastikan Anda sudah menginstal Flutter SDK.
+1.  Pastikan sudah menginstal Flutter SDK.
 2.  Clone repositori ini.
 3.  Buka terminal di direktori proyek, lalu jalankan `flutter pub get` untuk menginstal dependensi.
 4.  Jalankan aplikasi dengan `flutter run`.
